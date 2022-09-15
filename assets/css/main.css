@@ -1,0 +1,6 @@
+.card-title,.card-subtitle, .card-text, .card-link{
+    color: black;
+}
+.card-img-overlay {
+    background-color: rgba(#000, 0.4);
+  }
